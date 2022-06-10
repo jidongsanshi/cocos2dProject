@@ -1,0 +1,31 @@
+<Solution>
+  <PropertyGroup Name="mygame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="protagonist.png" PListFile="protagonist.plist" Name=".protagonist_PList.Dir">
+          <PlistImageFile Name="protagonist_down0.png" Key="protagonist_down0.png" />
+          <PlistImageFile Name="protagonist_down1.png" Key="protagonist_down1.png" />
+          <PlistImageFile Name="protagonist_down2.png" Key="protagonist_down2.png" />
+          <PlistImageFile Name="protagonist_down3.png" Key="protagonist_down3.png" />
+          <PlistImageFile Name="protagonist_left0.png" Key="protagonist_left0.png" />
+          <PlistImageFile Name="protagonist_left1.png" Key="protagonist_left1.png" />
+          <PlistImageFile Name="protagonist_left2.png" Key="protagonist_left2.png" />
+          <PlistImageFile Name="protagonist_left3.png" Key="protagonist_left3.png" />
+          <PlistImageFile Name="protagonist_right0.png" Key="protagonist_right0.png" />
+          <PlistImageFile Name="protagonist_right1.png" Key="protagonist_right1.png" />
+          <PlistImageFile Name="protagonist_right2.png" Key="protagonist_right2.png" />
+          <PlistImageFile Name="protagonist_right3.png" Key="protagonist_right3.png" />
+          <PlistImageFile Name="protagonist_up0.png" Key="protagonist_up0.png" />
+          <PlistImageFile Name="protagonist_up1.png" Key="protagonist_up1.png" />
+          <PlistImageFile Name="protagonist_up2.png" Key="protagonist_up2.png" />
+          <PlistImageFile Name="protagonist_up3.png" Key="protagonist_up3.png" />
+        </PlistImageFolder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="StartScene.csd" Type="Scene" />
+        <Project Name="WalkScene.csd" Type="Scene" />
+        <Project Name="BattleScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
